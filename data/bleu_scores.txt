@@ -1,0 +1,50 @@
+(task 1, zero shot): 24.08
+(task 1, self consistency): 22.78, 42.34
+(task 2, zero shot): 29.36
+(task 2, prompt chaining, response 1): 31.58
+(task 2, prompt chaining, response 2): 33.11
+(task 3, zero shot): 6.27
+(task 3, chain of thought): 21.08
+(task 4, prompt chaining, response 1): 15.47
+(task 4, prompt chaining, response 2): 41.59
+(task 4, few shot): 28.24
+(task 5, chain of thought): 40.58
+(task 5, zero shot): 46.24
+(task 6, zero shot): 100.00
+(task 6, self consistency): 87.54, 79.67
+(task 7, zero shot): 26.49
+(task 7, self consistency): 26.67, 27.88
+(task 8, zero shot): 6.29
+(task 8, chain of thought): 22.60
+(task 9, zero shot): 35.49
+(task 9, chain of thought): 48.96
+(task 10, zero shot): 21.31
+(task 10, self consistency): 21.31, 93.06
+(task 11, zero shot): 6.87
+(task 11, self consistency): 2.18, 8.08
+(task 12, zero shot): 76.37
+(task 12, few shot): 76.37
+(task 13, zero shot): 37.96
+(task 13, chain of thought): 26.98
+(task 14, zero shot): 100.00
+(task 14, few shot): 17.78
+(task 15, zero shot): 100.00
+(task 15, few shot): 100.00
+(task 16, zero shot): 51.20
+(task 16, chain of thought): 39.36
+(task 17, zero shot): 66.88
+(task 17, self consistency): 8.92, 18.25
+(task 18, zero shot): 54.80
+(task 18, prompt chaining, response 1): 28.76
+(task 18, prompt chaining, response 2): 100.00
+(task 19, zero shot): 42.19
+(task 19, chain of thought): 15.64
+(task 20, zero shot): 60.39
+(task 20, prompt chaining, response 1): 36.07
+(task 20, prompt chaining, response 2): 60.33
+(task 21, zero shot): 30.02
+(task 21, prompt chaining, response 1): 9.31
+(task 21, prompt chaining, response 2): 47.26
+(task 21, prompt chaining, response 3): 37.38
+(task 22, zero shot): 56.86
+(task 22, chain of thought): 32.82
